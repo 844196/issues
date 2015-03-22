@@ -6,4 +6,4 @@ Vill-osamu Issues
 
 ![](https://farm3.staticflickr.com/2843/12453412443_ec2353bf08_b.jpg)
 
-おさむ村の主に技術的、管理・運用的な問題や要望を管理・検討するITSです
+おさむ村の主に技術的、管理運用的な問題や要望を検討・議論するITSです
